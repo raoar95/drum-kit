@@ -69,6 +69,9 @@ function makeSound(Key) {
 
 }
 
+
+// Button Animation Js
+
 function buttonAnimation(currentKey) {
 
     var activeButton = document.querySelector("." + currentKey);
